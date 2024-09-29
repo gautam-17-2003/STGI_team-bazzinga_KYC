@@ -2,6 +2,9 @@
 PPT LINK
 https://www.canva.com/design/DAGSGEqgKU0/fNSrPEqX9YWVPnRDmv4-Mw/edit
 
+VIDEO LINK
+https://drive.google.com/file/d/19AiAZ2uYCwu7iMXIGddHj0MWII2LwyKm/view?usp=drive_link
+
 ## Team BAZZINGA
 - *Arsh Sharma*
 - *Chetan Mittal*
