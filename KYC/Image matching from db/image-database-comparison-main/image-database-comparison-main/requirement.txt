@@ -1,0 +1,9 @@
+numpy 
+pillow
+matplotlib 
+tensorflow 
+scikit-learn 
+annoy 
+tqdm
+joblib
+streamlit
