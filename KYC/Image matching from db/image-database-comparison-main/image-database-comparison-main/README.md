@@ -57,5 +57,3 @@ This project demonstrates how to perform image similarity search using the Mobil
 - The ImageNet-mini dataset is used for educational purposes.
 - MobileNetV2 is a pre-trained model available through TensorFlow
 
-# Contact
-- for any queries feel free to ask [pubrejagautam@gmail.com]
